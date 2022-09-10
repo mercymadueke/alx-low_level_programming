@@ -15,7 +15,7 @@ int main(void)
 
 	while (c >= 'a')
 	{	
-		int putchar (int c);
+		putchar(c);
 		c--;
 	}
 
