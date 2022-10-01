@@ -1,1 +1,1 @@
-a program that multiplies two numbers
+minimal number
