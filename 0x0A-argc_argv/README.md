@@ -1,1 +1,1 @@
-minimal number
+infinity
