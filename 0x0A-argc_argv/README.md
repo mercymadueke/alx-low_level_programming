@@ -1,1 +1,1 @@
-a program that print
+a program that multiplies two numbers
