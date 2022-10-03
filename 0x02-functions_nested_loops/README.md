@@ -1,1 +1,1 @@
-times table
+print
