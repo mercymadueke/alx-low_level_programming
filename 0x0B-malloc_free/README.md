@@ -1,1 +1,1 @@
-a function that creates an array of chars, and initializes it with a specific char
+a function that splits a string into words
