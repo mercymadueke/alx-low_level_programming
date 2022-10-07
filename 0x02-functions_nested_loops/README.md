@@ -1,1 +1,1 @@
-a program that prints the first 50 Fibonacci numbers
+Nature made the natural numbers
