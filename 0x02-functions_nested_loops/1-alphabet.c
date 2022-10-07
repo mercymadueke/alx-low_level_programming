@@ -2,20 +2,14 @@
 
 
 /**
- * print_alphabet – print alphabet a-z
- *
- * Description: print alhabet with _putchar
- *
- * Return: 0
+ * print_alphabet - prints the alphabet in lowercase, followed by a new line.
  */
 void print_alphabet(void)
 {
-	int 1 = 'a';
+	char letter;
 
-	while (1 <= ‘z';)
-	{
-		_putchar(1);
-		1++;
-	}
-	_putchar(‘\n’);
+	for (letter = 'a'; letter <= 'z'; letter++)
+		_putchar(letter);
+
+	_putchar('\n');
 }
