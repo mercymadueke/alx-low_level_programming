@@ -1,1 +1,1 @@
-Nature made the natural numbers
+The World looks like a multiplication
