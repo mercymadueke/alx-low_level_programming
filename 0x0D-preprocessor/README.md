@@ -1,1 +1,1 @@
-a header file that defines a macro
+a header file that defines a macro named PI
