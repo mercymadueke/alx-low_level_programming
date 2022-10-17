@@ -1,1 +1,1 @@
-function reverse
+a function that concatenates two strings
