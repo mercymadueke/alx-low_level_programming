@@ -1,1 +1,1 @@
-a program that generates random valid passwords
+a function that reverses a string
