@@ -1,1 +1,1 @@
-a function that capitalizes all words of a string
+a function that prints an integer
