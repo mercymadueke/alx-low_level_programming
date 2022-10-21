@@ -1,1 +1,1 @@
-a function that returns the number of elements in a linked list
+a function that adds a new node at the beginning of a list
