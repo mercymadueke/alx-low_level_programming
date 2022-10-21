@@ -1,1 +1,1 @@
-a function that frees a list
+a function that prints You are beat before the main function is executed
