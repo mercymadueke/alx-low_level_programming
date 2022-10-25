@@ -1,1 +1,1 @@
-a function that reverses a listint
+a function that prints a listint
