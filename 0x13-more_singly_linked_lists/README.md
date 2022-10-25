@@ -1,1 +1,1 @@
-a function that adds a new node at the end of a listint
+a function that adds a new node at the beginning of a listint
