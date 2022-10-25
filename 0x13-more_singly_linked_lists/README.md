@@ -1,1 +1,1 @@
-a function that returns the sum of all the data
+a function that inserts a new node at a given position
