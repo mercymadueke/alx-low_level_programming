@@ -1,1 +1,1 @@
-a function that deletes the head node of a listint
+a function that returns the nth node of a listint
