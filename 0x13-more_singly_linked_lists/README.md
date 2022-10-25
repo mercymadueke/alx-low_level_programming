@@ -1,1 +1,1 @@
-a function that returns the nth node of a listint
+a function that returns the sum of all the data
