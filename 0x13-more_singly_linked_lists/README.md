@@ -1,1 +1,1 @@
-a function that returns the number of elements in a linked listint
+a function that adds a new node at the end of a listint
