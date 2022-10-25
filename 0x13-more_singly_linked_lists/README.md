@@ -1,1 +1,1 @@
-a function that frees a listint
+a function that deletes the head node of a listint
