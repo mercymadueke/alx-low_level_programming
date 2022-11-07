@@ -1,1 +1,1 @@
-program that prints all possible combinations of two two-digit numbers
+a program that prints the lowercase alphabet in reverse
