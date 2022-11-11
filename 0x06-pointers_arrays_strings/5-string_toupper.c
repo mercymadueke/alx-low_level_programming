@@ -7,7 +7,7 @@
  * Return: address tp the string
  */
 
-char *string_toupper(char *)
+char *string_toupper(char *p)
 {
 	int a = 0;
 
